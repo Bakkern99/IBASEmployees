@@ -46,7 +46,7 @@ namespace IBASEmployeeService.Controllers
                     Id = 2,
                     Name = "Support"
                 }
-            }
+            },
             new Employee() {
             Id = "24",
             Name = "Peter Jensen",
